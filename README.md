@@ -1,2 +1,2 @@
-# unstructured_text
-sorting unstructured text
+## unstructured_text
+Basic query for sorting unstructured text in SQL (my first code!)
